@@ -8,5 +8,7 @@
     include 'functions.php';
     drawCalendar(); //Call the drawCalendar function
     ?>
+    <br/>
+    We're open source, contribute over on <a href="https://github.com/mowles/PHP-Calendar">Github</a>
   </body>
 </html>
